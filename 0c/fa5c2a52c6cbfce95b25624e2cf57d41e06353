@@ -1,0 +1,19 @@
+packages/vitest/src/node/core.ts
+  s_45cffc1c9ae36e::t_4dbf8ecc1c028b 1544-1555
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0cfa5c2a52c6cbfce95b25624e2cf57d41e06353",
+  "prompts": {},
+  "sessions": {
+    "s_45cffc1c9ae36e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_08f32683fffeF8cbmRn5MdLNKs",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Zak Cutner <zak@cloudflare.com>"
+    }
+  }
+}
